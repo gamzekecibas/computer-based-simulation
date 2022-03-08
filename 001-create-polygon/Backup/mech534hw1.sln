@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mech534hw1", "mech534hw1.vcproj", "{783D26BF-A908-4CB8-8DE8-48E2798A4E9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{783D26BF-A908-4CB8-8DE8-48E2798A4E9C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{783D26BF-A908-4CB8-8DE8-48E2798A4E9C}.Debug|Win32.Build.0 = Debug|Win32
+		{783D26BF-A908-4CB8-8DE8-48E2798A4E9C}.Release|Win32.ActiveCfg = Release|Win32
+		{783D26BF-A908-4CB8-8DE8-48E2798A4E9C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
