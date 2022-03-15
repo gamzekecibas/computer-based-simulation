@@ -1,0 +1,4 @@
+﻿  mech534hw2.cpp
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\Student_Utilities_Pack\Numerical_Recipes\nr.h(153,20): warning C4273: 'erff': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(550,47): message : see previous definition of 'erff'
+  mech534hw2.vcxproj -> C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_HW2\x64\Debug\mech534hw2.exe
