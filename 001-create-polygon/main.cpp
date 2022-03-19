@@ -8,7 +8,6 @@
  * - one for the polyhedron (aggregate vertex and polygon info)
  *
  * Gamze Keçibaş
- * 60211
  * SPRING - 2022
  ***************************************************************/
 
