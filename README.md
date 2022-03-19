@@ -17,5 +17,5 @@ Course assignments of Koç University MECH434/534: Computer Based Simulation &am
   <img width="250" height="300" src="https://user-images.githubusercontent.com/60810553/159135207-693c79fa-6e1b-449f-9a02-74d6b96a17dd.png">  
   <img width="250" height="300" src="https://user-images.githubusercontent.com/60810553/159135289-54503ea9-2189-42b0-993b-16efa2049abc.png">
 <p align="center">
-  <img width="500" height="300" src="https://user-images.githubusercontent.com/60810553/159135544-423c29ed-f4e0-4066-a82f-7be7893fc9f6.png">
+  <img width="400" height="300" src="https://user-images.githubusercontent.com/60810553/159135544-423c29ed-f4e0-4066-a82f-7be7893fc9f6.png">
 </p>
