@@ -1,0 +1,5 @@
+﻿  mech534hw3.cpp
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\Student_Utilities_Pack\Numerical_Recipes\nr.h(153,20): warning C4273: 'erff': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(550,47): message : see previous definition of 'erff'
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_HW3\mech534hw3\mech534hw3.cpp(24,11): warning C4101: 'x': unreferenced local variable
+  mech534hw3.vcxproj -> C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_HW3\x64\Debug\mech534hw3.exe
