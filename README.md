@@ -19,3 +19,8 @@ Course assignments of Koç University MECH434/534: Computer Based Simulation &am
 <p align="center">
   <img width="400" height="300" src="https://user-images.githubusercontent.com/60810553/159135544-423c29ed-f4e0-4066-a82f-7be7893fc9f6.png">
 </p>
+* [004-jacobi-method](https://github.com/gamzekecibas/computer-based-simulation/tree/main/004-jacobi-method): The project covers Jacobi method using libraries of [Numerical Recipes](http://numerical.recipes/). Fundamental Linear Algebra is used in the project especially eigenvalue & eigenvectors.    
+<p align="center">
+  <img width="400" height="300" src="https://user-images.githubusercontent.com/60810553/160459562-7df9d69b-eb0a-4107-bb6b-684d8ae6060e.png">
+</p>
+
