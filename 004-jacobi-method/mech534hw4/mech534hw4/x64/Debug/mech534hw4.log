@@ -1,0 +1,8 @@
+﻿  nr.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\Student_Utilities_Pack\Numerical_Recipes\nr.cpp': No such file or directory
+  nrutil.cxx
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\Student_Utilities_Pack\Numerical_Recipes\nrutil.cxx': No such file or directory
+  mech534hw4.cpp
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\Student_Utilities_Pack\Numerical_Recipes\nr.h(153,20): warning C4273: 'erff': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(550,47): message : see previous definition of 'erff'
+  Generating Code...
