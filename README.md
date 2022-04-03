@@ -25,3 +25,8 @@ Course assignments of Koç University MECH434/534: Computer Based Simulation &am
   <img width="400" height="300" src="https://user-images.githubusercontent.com/60810553/160459562-7df9d69b-eb0a-4107-bb6b-684d8ae6060e.png">
 </p>
 
+* [005-nonlinear-equations](https://github.com/gamzekecibas/computer-based-simulation/tree/main/005-nonlinear-equations): The assignment covers Prey - Predators (Lotka - Volterra) system solution via [Numerical Recipes](http://numerical.recipes/). The development method is approved by MATLAB ODE45 & ODE23. The console after run the main file below:
+<p align="center">
+  <img width="300" height="300" src="https://user-images.githubusercontent.com/60810553/161441130-2056f579-ee75-4657-b843-50606da6b448.png">
+</p> 4
+
