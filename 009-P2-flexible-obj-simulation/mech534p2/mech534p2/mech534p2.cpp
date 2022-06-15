@@ -3,7 +3,6 @@
  Project 2 - 3D Simulation of a Flexible Object
  Spring 2022
  Gamze Keçibaş
- 60211
  */
 
  // Import required global & local libraries
