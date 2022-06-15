@@ -1,0 +1,11 @@
+﻿  mech534hw7.cpp
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_HW7\mech534hw7\mech534hw7\mech534hw7.cpp(33,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_HW7\mech534hw7\mech534hw7\mech534hw7.cpp(36,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_HW7\mech534hw7\mech534hw7\mech534hw7.cpp(70,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_HW7\mech534hw7\mech534hw7\mech534hw7.cpp(71,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_HW7\mech534hw7\mech534hw7\mech534hw7.cpp(72,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_HW7\mech534hw7\mech534hw7\mech534hw7.cpp(85,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_HW7\mech534hw7\mech534hw7\mech534hw7.cpp(138,70): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_HW7\mech534hw7\mech534hw7\mech534hw7.cpp(146,70): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_HW7\mech534hw7\mech534hw7\mech534hw7.cpp(154,70): warning C4305: 'argument': truncation from 'double' to 'float'
+  mech534hw7.vcxproj -> C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_HW7\mech534hw7\x64\Debug\mech534hw7.exe
