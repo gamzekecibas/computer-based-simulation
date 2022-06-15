@@ -3,7 +3,6 @@
  Project 1 - Rigid Body Simulation
  Spring 2022
  Gamze Keçibaş
- 60211
  */
 
 // Import required global & local libraries
