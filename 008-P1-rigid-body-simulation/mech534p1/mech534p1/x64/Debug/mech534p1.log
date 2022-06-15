@@ -1,0 +1,25 @@
+﻿  mech534p1.cpp
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_P1\mech534p1\mech534p1\mech534p1.cpp(44,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_P1\mech534p1\mech534p1\mech534p1.cpp(46,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_P1\mech534p1\mech534p1\mech534p1.cpp(54,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_P1\mech534p1\mech534p1\mech534p1.cpp(55,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_P1\mech534p1\mech534p1\mech534p1.cpp(56,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_P1\mech534p1\mech534p1\mech534p1.cpp(60,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_P1\mech534p1\mech534p1\mech534p1.cpp(61,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_P1\mech534p1\mech534p1\mech534p1.cpp(155,77): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_P1\mech534p1\mech534p1\mech534p1.cpp(157,46): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_P1\mech534p1\mech534p1\mech534p1.cpp(206,82): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_P1\mech534p1\mech534p1\mech534p1.cpp(243,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_P1\mech534p1\mech534p1\mech534p1.cpp(244,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_P1\mech534p1\mech534p1\mech534p1.cpp(245,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_P1\mech534p1\mech534p1\mech534p1.cpp(246,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_P1\mech534p1\mech534p1\mech534p1.cpp(297,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_P1\mech534p1\mech534p1\mech534p1.cpp(297,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_P1\mech534p1\mech534p1\mech534p1.cpp(297,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_P1\mech534p1\mech534p1\mech534p1.cpp(326,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_P1\mech534p1\mech534p1\mech534p1.cpp(348,51): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_P1\mech534p1\mech534p1\mech534p1.cpp(349,50): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_P1\mech534p1\mech534p1\mech534p1.cpp(350,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_P1\mech534p1\mech534p1\mech534p1.cpp(360,52): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_P1\mech534p1\mech534p1\mech534p1.cpp(361,52): warning C4305: 'argument': truncation from 'double' to 'const float'
+  mech534p1.vcxproj -> C:\Users\Gamze Keçibaş\Desktop\code\MECH534\HWs\GamzeKecibas_60211_MECH534_P1\mech534p1\x64\Debug\mech534p1.exe
